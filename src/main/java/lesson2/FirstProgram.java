@@ -1,3 +1,5 @@
+package lesson2;
+
 //классы
 public class FirstProgram {
     //методы (определение, объявление методов - чтобы использовать в основной main-точке, main - методе
@@ -23,8 +25,6 @@ public class FirstProgram {
 
 //вызов функций (методов)
     public static void main(String[] args) {
-        // вывод текста
-        System.out.println("Привет, миръ!");
 
         // операции сложения
         int calc1 = summa(1,545);
