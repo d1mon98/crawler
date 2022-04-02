@@ -11,7 +11,6 @@ public class FibonacciNumbers {
                 "который вы хотите вычислить");
         int FibRow = in.nextInt();
 
-
         if (FibRow == 1) {
             System.out.println("Число Фиббоначи №: " + (FibRow) + " :" + "0");
         } else if (FibRow == 2 ||FibRow == 3) {
